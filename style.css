@@ -1,0 +1,161 @@
+/*CSS FOR HOMEPAGE*/
+
+/*HEADER*/
+
+header{
+	height: 464px;
+	background : url("img/HOMEPAGE1.PNG");
+	width: 1910px;
+	margin-top: -10px;
+	margin-left: -10px;
+
+}
+
+header h1{
+	font-family: Indie Flower;
+	font-size: 102px;
+	font-weight: 400;
+	margin: 0px 0px 0px 220px;
+	padding-top:233px;
+	padding-left: 580px;
+}
+
+
+p1 { 
+	font-family: Roboto;
+	font-weight: 200;
+	font-size: 26px;
+	padding-left: 720px;
+}
+
+p2 {
+	font-family: Roboto; 
+	margin-left: 720px;
+	font-size: 26px
+}
+
+#logo{
+	position: absolute;
+	width: 252px;
+	height: 106px;
+	margin-top: 5px;
+}
+
+#OrangeDot{
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	margin: 22px 0px 0px 1790px;
+
+}
+
+.English{
+	position: absolute;
+	width: 400px;
+	height: 100px;
+	margin: -450px 0px 0px 1250px ;
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 500px;
+	text-align: center;
+	background-color: #E7DDD3
+
+}
+
+
+
+/*CARDS*/
+
+.Cards{
+	position: absolute;
+	width: 325px;
+	height: 100px;
+	margin: 15px 0px 0px 0px ;
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 500px;
+	text-align: center;
+	background-color: #E7DDD3;
+}
+
+.Deliverydate{
+	position: absolute;
+	width: 325px;
+	height: 100px;
+	margin: 15px 0px 0px 344px ;
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 500px;
+	text-align: center;
+	background-color: #E7DDD3;
+}
+
+.Search{
+	position: absolute;
+	width: 325px;
+	height: 100px;
+	margin: -102px 0px 0px 344px ;
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 500px;
+	text-align: center;
+	background-color: #E7DDD3;
+}
+
+/*BIG CARDS*/
+
+.AboutUs{
+	width: 800px;
+	height: 90px;
+	margin: 420px 0px 0px 0px ;
+	font-family: Roboto;
+	font-size: 32px;
+	background-color: #E7DDD3
+}
+
+.AboutUs p{
+	padding-left: 10px;
+	height: 11px;
+	font-size: 35px;
+}
+h1{
+	font-size:16px;
+	padding-left: 10px;
+}
+
+.AboutUs p3{
+	font-size: 18px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.AboutUs img{
+	width: 100px;
+	margin-left: 315px;
+}
+
+.COVID19SITUATION{
+	width: 810px;
+	height: 90px;
+	margin: -124px 0px 0px 1080px ;
+	font-family: Roboto;
+	font-size: 32px;
+	background-color: #E7DDD3
+}
+
+.COVID19SITUATION p{
+	padding-left: 10px;
+	height: 11px;
+	font-size: 35px;
+}
+
+.COVID19SITUATION h1{
+	font-size:16px;
+	padding-left: 10px;
+}
+
+.COVID19SITUATION p4{
+	font-size: 18px;
+	text-decoration: underline;
+	font-weight: bold;
+}
